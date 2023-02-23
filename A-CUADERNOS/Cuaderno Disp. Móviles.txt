@@ -1,0 +1,29 @@
+Cuaderno Dispositivos Móviles:
+
+--------------------------------
+
+## Criterios Ergonómicos 
+
+ Interfaz buena - en estructura y para el usuario 
+ Una aplicacion se deja de usar cuando no es buena, facil de entender 
+
+Interfaz de uduario : conexion funcional entre persona y sistema (intercambio de informacion)
+
+ Diversos elementos: contenido grafico, sonidos etc..
+ Ergonomia como adaptacion al entorno
+
+ 1.-  Facilitar el aprendizaje (Prompting) - Orientacion al usuario
+        Feedback: Retroalimentacion al usuario de lo que hace (calidad y rápidez de respuesta) no dejar tirado al usuario
+
+        Legibilidad: Facilitar comprensión y lectura de informacion
+
+2.- Workflow - No atascar al usuario con tareas
+        Corte: Entre más pequeña la entrada, menor la probabilidad de error
+
+        Minimal Actions: Más acciones - más chance de error (buscamos evitarlos)
+
+        Densidad de la información: No sobrecargar la informacion (detalle minimalista) - "menos es más" evitar retacar de cosas o reptir info
+
+3.- Control explicito
+
+--------------------------------
