@@ -1,11 +1,32 @@
-
---------------------------------
 Cuaderno: Backend
+T Teoria
+G General
+S Semana
+P Práctica
+C Código
+O Otro
+R Resumen
+-------------------------------- 23 - Febrero -2023
 
+Arquitectura de un sistema llevar un patron arquitectónico
+Arquitectura enfocada en los componentes y como interactuan
+API REST - Interfaz de programacion de aplicaciones REST
 
+Modularizar - Descomponer en modulos una aplicacion
+Nos ayuda a expandir o hacer cambios 
+
+DTO - Objetos de transferencia de datos
+
+Arquitectura de una aplicacion:
+	Controller - Service
+	Servicio: Lógica del negocio -> @Service
+	Repository - Entity
+	Repositorio: gestionan acceso a los datos 
+	DTO's
 
 
 -------------------------------
 
 
-
+ 
+ 
