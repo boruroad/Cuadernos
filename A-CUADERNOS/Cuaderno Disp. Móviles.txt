@@ -25,5 +25,38 @@ Interfaz de uduario : conexion funcional entre persona y sistema (intercambio de
         Densidad de la información: No sobrecargar la informacion (detalle minimalista) - "menos es más" evitar retacar de cosas o reptir info
 
 3.- Control explicito
+        El usuario tiene el control de las acciones que realiza en el sistema
+        Solo se hacen acciones cuando el usuario lo solicita 
+        Habilitar un boton para cancelar o seguir la accion
 
+4.- Adaptabilidad
+        Comportamiento de acuerdo a las necesidades del usuario
+        
+        4.1 Flexibilidad: Manera en la que el usuario puede personalizar la interfaz para que el usuario cree sus propias estrategias para alcannzar sus objetivos
+        
+        4.2 User experience: El usuario aplica sus niveles de experiencia en el sistema.
+        
+5.- Administración de errores: Prevenir o reducir errores y poder recuperarse después de que suceda uno 
+         -> Hacer que el usuario cometa la menor cantidad de errores 
+         -> En los datos que el usuario pueda ingresar (detectar errores desde antes)
+         -> Confirmar pasos para evitar errores
+         
+         5.2 Calidad de los mensajes de error: Mencionar respuestas del sistema hacia un error.
+         -> Hacer obvio lo obvio 
+         -> Mencionar como se soluciona 
+         -> La calidad del mensaje de error es vital para un buen funcionamiento
+         -> Dar un mensaje lo más especifico posible:
+            1) Cual es el error?
+            2) Porqué cometiste ese error?
+            3) Cómo solucionarlo?
+        
+        5.3 Corrección de errores: Los errores son menos molestos cuando son fáciles y rápidos de corregir
+ 
+ 6.- Consistencia: Forma en que la interfaz se mantiene igual en contextos similares 
+           -> Mantener mismos titulos, ventanas, formato similar, datos etc... (mantener formato)
+           
+7.- Significado de códigos: No usar abreviaciones
+
+8.- Compatibilidad: Coherencia entre otros ambientes y aplicaciones.
+     
 --------------------------------
