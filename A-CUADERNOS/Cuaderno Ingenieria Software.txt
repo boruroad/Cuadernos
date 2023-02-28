@@ -8,5 +8,12 @@ Proteger la informacion
 Crear referencias
 -------------------------------
 
+Especificacion de requeirmientos: 
+    - Ahi mencionamos lo que vamos a hacer, lo dejamos en claro por ambas partes (Cliente programador)
+      El objetivo es estender el problema a resolver
+      Verificar que se cubran las necesidades del cliente
+      Crear Software de calidad
+
+Planteamiento de neceidades: Documento donde se cncentra la informacion de que es lo que se tiene que hacer en el desarrollo del software
 
 
