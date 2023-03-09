@@ -24,8 +24,10 @@ Arquitectura de una aplicacion:
 	Repositorio: gestionan acceso a los datos 
 	DTO's
 
-
 -------------------------------
+Resumen semana 4:
+
+Teoria principal lista iniciamos parte práctica. 
 
 
  
